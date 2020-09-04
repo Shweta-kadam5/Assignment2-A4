@@ -1,0 +1,41 @@
+body {
+  background-image: url('img1.jpg');
+ 
+  padding: 200px;
+
+}
+h1 {
+   text-shadow: 2px 2px 8px #FF0000;
+  text-align: center;
+  font-size:100px;
+}
+div.p1{
+	text-align: left;
+	background-color: #00ffff;
+}
+
+div.p1::first-letter {
+  font-size: 200%;
+  color: #0000ff;
+}
+div.p2{
+	text-align: left;
+	background-color: #00cc00;
+}
+hr{
+	color: red;
+}
+th{
+	background-color: red;
+}
+
+table{
+	size:500;
+
+}
+div.table{
+
+}
+.table.td.p31{
+	background-color: purple;
+}
